@@ -8,21 +8,22 @@ body, html {
   margin: 0;
   font-family: sans-serif;
   color: #333;
+  background-color: rgb(255, 225, 196);
 }
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: #8d0202;
   font-weight: bold;
   transition: color .1s;
 }
 
 a:hover {
-  color: #3486eb;
+  color: #34d0eb;
 }
 
 button {
-  background-color: #225ca3;
+  background-color: #ac0a0a;
   border: 0;
   padding: 1%;
   color: white;
@@ -33,7 +34,7 @@ button {
 }
 
 button:hover {
-  background-color: #3486eb;
+  background-color: #eb3434;
 }
 
 .post-list {
@@ -49,7 +50,7 @@ textarea, input {
 
 textarea:focus, input:focus {
   outline: none;
-  border: 1px solid #3486eb;
+  border: 1px solid #eb3434;
 }
 
 textarea {
@@ -83,7 +84,7 @@ header {
 }
 
 header h1 {
-  font-size: 1em;
+  font-size: 1.3em;
 }
 
 main {
@@ -124,7 +125,7 @@ main {
 
 .post .title span {
   font-style: italic;
-  font-size: 90%;
+  font-size: 100%;
   color: #7d7d7d;
 }
 
@@ -156,7 +157,7 @@ main {
 }
 
 .comment .meta {
-  font-size: 90%;
+  font-size: 95%;
   margin-bottom: .5%;
   opacity: .6;
 }
@@ -170,9 +171,10 @@ main {
 }
 
 footer {
-  border-top: 1px solid #ccc;
+  border-top: 1px solid rgb(153, 19, 19);
   display: flex;
   justify-content: center;
   padding: 1%;
+  font-weight: bold;
   font-size: 110%;
 }
