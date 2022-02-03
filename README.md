@@ -2,8 +2,8 @@
 
 ## Description
 
-  <p>You can see the project repository: <b>[here](https://github.com/mihaelavalac/just-tech-news)</b><br>
-   You can navigate to the deployed site <b>[here](https://tech-news-mv.herokuapp.com/)</b></p>
+  You can see the project repository: <b>[here](https://github.com/mihaelavalac/just-tech-news) <br>
+  You can navigate to the deployed site <b>[here](https://tech-news-mv.herokuapp.com/)
 
   <p><i>The purpose of this application is to allow developers to create an account and share different tech articles and news with others developers. After creating an account, an user can create a post by adding the name and the link of the article. As well, an user can update or delete his/her posts or upvote and comment others posts.</i><p>
 
@@ -24,29 +24,29 @@ Follow the following instructions to install this project: <br> 1. Download Node
 ![image](./public/img/update-post.png)
 
 ## Features
-GIVEN a tech-news application
-WHEN I open the tech-news app
-THEN I am presented with a landing page with diverse posts and navigation that link to login
-WHEN I click on the login link to these pages
-THEN I am presented with a page with login and sign up forms
-WHEN I enter the email, username, and password in the sign in form and or the email and password in the login form and submit it
-THEN I am redirected to a dashboard page to create a new post
-WHEN I enter a new post name and link in the form and submit it
-THEN the post is added to the home page
-WHEN I click the Edit post button under a specific post in the dashboard page
-THEN the edit post page opens with a form to edit post
-WHEN I enter the editions in the form and click Save post
-THEN the post is saved with editions
-WHEN click Delete post in the edit page
-THEN the post is saved deleted
-WHEN I am on the home page I see a list with all created posts
-WHEN I click the post name
-THEN the link of the article opens in a new tab
-WHEN I click the comments button under a post
-THEN the a post page opens with a form to leave a comment or up-vote the post
-WHEN I fill the form with a comment and click add comment
-THEN a comment is added under the post and the comments number increases
-WHEN I click the up-vote button in the post page
+GIVEN a tech-news application <br>
+WHEN I open the tech-news app <br>
+THEN I am presented with a landing page with diverse posts and navigation that link to login <br>
+WHEN I click on the login link to these pages <br>
+THEN I am presented with a page with login and sign up forms <br>
+WHEN I enter the email, username, and password in the sign in form and or the email and password in the login form and submit it <br>
+THEN I am redirected to a dashboard page to create a new post <br>
+WHEN I enter a new post name and link in the form and submit it <br>
+THEN the post is added to the home page <br>
+WHEN I click the Edit post button under a specific post in the dashboard page <br>
+THEN the edit post page opens with a form to edit post <br>
+WHEN I enter the editions in the form and click Save post <br>
+THEN the post is saved with editions <br>
+WHEN click Delete post in the edit page <br>
+THEN the post is saved deleted <br>
+WHEN I am on the home page I see a list with all created posts <br>
+WHEN I click the post name <br>
+THEN the link of the article opens in a new tab <br>
+WHEN I click the comments button under a post <br>
+THEN the a post page opens with a form to leave a comment or up-vote the post <br>
+WHEN I fill the form with a comment and click add comment <br>
+THEN a comment is added under the post and the comments number increases <br>
+WHEN I click the up-vote button in the post page <br>
 THEN the number of points increases under the post. 
 
 
