@@ -2,8 +2,8 @@
 
 ## Description
 
-  You can see the project repository <b>[here](https://github.com/mihaelavalac/just-tech-news) </b> <br>
-  You can navigate to the deployed site <b>[here](https://tech-news-mv.herokuapp.com/) </b>
+  You can see the project repository <b>[here](https://github.com/mihaelavalac/just-tech-news).</b>  <br>
+  You can navigate to the deployed site <b>[here](https://tech-news-mv.herokuapp.com/).</b>
 
   <p><i>The purpose of this application is to allow developers to create an account and share different tech articles and news with others developers. After creating an account, an user can create a post by adding the name and the link of the article. As well, an user can update or delete his/her posts or upvote and comment others posts.</i><p>
 
