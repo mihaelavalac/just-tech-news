@@ -1,11 +1,11 @@
-  <h1 align="center"> Tech News <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-blue"> </h1>
+    <h1 align="center"> Tech News <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-blue"> </h1>
 
 ## Description
 
   You can see the project repository <b>[here](https://github.com/mihaelavalac/just-tech-news).</b>  <br>
   You can navigate to the deployed site <b>[here](https://tech-news-mv.herokuapp.com/).</b>
 
-  <p><i>The purpose of this application is to allow developers to create an account and share different tech articles and news with others developers. After creating an account, an user can create a post by adding the name and the link of the article. As well, an user can update or delete his/her posts or upvote and comment others posts.</i><p>
+  <p><i>The purpose of this application is to allow developers to create an account and share different tech articles and news with other developers. After creating an account, a user can create a post by adding the name and the link to the article. As well, a user can update or delete his/her posts or upvote and comment on others’ posts.</i><p>
 
 ## Table of Contents
 
@@ -28,8 +28,8 @@ GIVEN a tech-news application <br>
 WHEN I open the tech-news app <br>
 THEN I am presented with a landing page with diverse posts and navigation that link to login <br>
 WHEN I click on the login link to these pages <br>
-THEN I am presented with a page with login and sign up forms <br>
-WHEN I enter the email, username, and password in the sign in form and or the email and password in the login form and submit it <br>
+THEN I am presented with a page with login and sign-up forms <br>
+WHEN I enter the email, username, and password in the sign-in form and or the email and password in the login form and submit it <br>
 THEN I am redirected to a dashboard page to create a new post <br>
 WHEN I enter a new post name and link in the form and submit it <br>
 THEN the post is added to the home page <br>
@@ -43,10 +43,10 @@ WHEN I am on the home page I see a list with all created posts <br>
 WHEN I click the post name <br>
 THEN the link of the article opens in a new tab <br>
 WHEN I click the comments button under a post <br>
-THEN the a post page opens with a form to leave a comment or up-vote the post <br>
+THEN the posting page opens with a form to leave a comment or up-vote the post <br>
 WHEN I fill the form with a comment and click add comment <br>
 THEN a comment is added under the post and the comments number increases <br>
-WHEN I click the up-vote button in the post page <br>
+WHEN I click the up-vote button on the post page <br>
 THEN the number of points increases under the post. 
 
 
@@ -63,7 +63,8 @@ This application is covered by the <b>[GPL-2.0](https://opensource.org/licenses/
 
 ## Questions
 
-For questions please contact me on: <br/>
+For questions, please contact me on: <br/>
 
 :octocat: Github: [mihaelavalac](https://github.com/mihaelavalac) <br>
 ✉️ Email: mihaelavalac@yahoo.com<br/>
+![image](https://user-images.githubusercontent.com/69922624/155646533-db4b6130-99f6-476f-9898-d2356fe70d2a.png)
