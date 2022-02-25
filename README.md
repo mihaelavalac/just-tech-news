@@ -67,4 +67,3 @@ For questions, please contact me on: <br/>
 
 :octocat: Github: [mihaelavalac](https://github.com/mihaelavalac) <br>
 ✉️ Email: mihaelavalac@yahoo.com<br/>
-![image](https://user-images.githubusercontent.com/69922624/155646533-db4b6130-99f6-476f-9898-d2356fe70d2a.png)
