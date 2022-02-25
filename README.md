@@ -1,4 +1,4 @@
-    <h1 align="center"> Tech News <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-blue"> </h1>
+    <h1 align="center"> Tech News <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-blue"></h1>
 
 ## Description
 
